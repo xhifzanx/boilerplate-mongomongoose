@@ -102,7 +102,7 @@ const queryChain = (done) => {
 /* You completed these challenges, let's go celebrate !
  */
 
-/----- **DO NOT EDIT BELOW THIS LINE** ----------------------------------
+//----- **DO NOT EDIT BELOW THIS LINE** ----------------------------------
 
 exports.PersonModel = Person;
 exports.createAndSavePerson = createAndSavePerson;
